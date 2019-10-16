@@ -1,6 +1,5 @@
 import axios from 'axios';
-import AxiosWithAuth from '..components/AxiosWith';
-import Axios from 'axios';
+import AxiosWithAuth from '../components/AxiosWithAuth';
 
 export const LOGGING_START = 'LOGGING_START'
 export const LOGGING_FAILURE = 'LOGGING_FAILURE'
